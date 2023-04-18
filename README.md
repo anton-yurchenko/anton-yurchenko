@@ -8,7 +8,7 @@
 
 | Source | Topic | Summary |  
 |:---:|:---:|:---:|  
-| <img src="https://user-images.githubusercontent.com/33016810/232733266-519a90c2-c5b7-4202-be88-cac0143960d0.png" width="20" height="20" /> AWS Case Study | [ Aurora RDS Migration](https://aws.amazon.com/solutions/case-studies/reasonlabs-case-study/) | Migration of one of the biggest malware databases worldwide from Azure to AWS |
+| <img src="https://user-images.githubusercontent.com/33016810/232733266-519a90c2-c5b7-4202-be88-cac0143960d0.png" width="30" height="30" /> | [AWS Case Study - Aurora RDS Migration](https://aws.amazon.com/solutions/case-studies/reasonlabs-case-study/) | Migration of one of the biggest malware databases worldwide from Azure to AWS |
 
 ## Contact
 
