@@ -1,8 +1,10 @@
 ## Overview
 
-<img src="https://github-readme-stats.vercel.app/api?username=anton-yurchenko&show_icons=true&theme=gotham&hide_title=true" alt="github stats" width="45%" align="right"/>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=anton-yurchenko" alt="anton-yurchenko" /></a> </p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anton-yurchenko&theme=gotham" width="48%">
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=anton-yurchenko&show_icons=true&locale=en&layout=compact" alt="anton-yurchenko" width="25%"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=anton-yurchenko&show_icons=true&locale=en" alt="anton-yurchenko" width="33%"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anton-yurchenko&" alt="anton-yurchenko" width="35%"/></p>
 
 ## Posts
 
