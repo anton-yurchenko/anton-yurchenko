@@ -6,11 +6,12 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=anton-yurchenko&show_icons=true&locale=en" alt="anton-yurchenko" width="33%"/></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anton-yurchenko&" alt="anton-yurchenko" width="35%"/></p>
 
-## Posts
+## Publications
 
 | Source | Topic | Summary |  
 |:---:|:---:|:---:|  
-| <img src="https://user-images.githubusercontent.com/33016810/232733266-519a90c2-c5b7-4202-be88-cac0143960d0.png" width="30" height="30" /> | [AWS Case Study - Aurora RDS Migration](https://aws.amazon.com/solutions/case-studies/reasonlabs-case-study/) | Migration of one of the biggest malware databases worldwide from Azure to AWS |
+| <img src="https://github.com/anton-yurchenko/anton-yurchenko/assets/33016810/24c50d6e-20bc-442c-bdeb-84f728a17656" width="30" height="30" /> | [AWS Aurora RDS Migration Case Study](https://aws.amazon.com/solutions/case-studies/reasonlabs-case-study/) | Migration of one of the most extensive malware databases worldwide from Azure to AWS |
+| <img src="https://github.com/anton-yurchenko/anton-yurchenko/assets/33016810/9127cf0c-748d-477d-b9fc-d1b864c8df4b" width="30" height="30" /> | [Control Monkey Case Study](https://controlmonkey.io/case-study/reasonlabs/) | Terraform automation platform |
 
 ## Contact
 
