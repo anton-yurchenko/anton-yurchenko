@@ -1,10 +1,22 @@
-## Overview
+<div align="center">
+  <img height="150" src="https://github.com/user-attachments/assets/e20382e4-b8e8-41d2-823e-357a3f2efd82"  />
+</div>
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=anton-yurchenko" alt="anton-yurchenko" /></a> </p>
+###
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=anton-yurchenko&show_icons=true&locale=en&layout=compact" alt="anton-yurchenko" width="25%"/></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=anton-yurchenko&show_icons=true&locale=en" alt="anton-yurchenko" width="33%"/></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anton-yurchenko&" alt="anton-yurchenko" width="35%"/></p>
+<div align="center" style="font-size: 0;">
+  <a href="https://www.linkedin.com/in/profile-anton/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" /></a><a href="https://anton-yurchenko.medium.com/" target="_blank"><img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Medium" /></a><a href="https://stackoverflow.com/users/10483800/anton-yurchenko?tab=profile" target="_blank"><img src="https://img.shields.io/static/v1?message=StackOverflow&logo=stackoverflow&label=&color=F48024&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Stack Overflow" /></a>
+</div>
+
+## Stats
+
+<div align="center" style="padding: 0; margin: 0;">
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 6px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=anton-yurchenko&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub ReadMe Stats" width="32%" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=anton-yurchenko&theme=dark&hide_border=false" alt="GitHub Contribution Streak Stats" width="35%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anton-yurchenko&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Programming Languages on GitHub" width="25%" />
+  </div>
+</div>
 
 ## Publications
 
@@ -15,8 +27,11 @@
 | <img src="https://github.com/user-attachments/assets/88b9cc43-f832-4cbb-9d38-f7256c6a6d4a" width="60" height="30" /> | [AWS Aurora RDS I/O-Optimized Mode Explained](https://anton-yurchenko.medium.com/aws-aurora-rds-i-o-optimized-mode-explained-aa7d1152e28a) | Byte-Size guide to reducing Aurora storage I/O costs and offsetting compute increases using Reserved Instances |
 
 
-## Contact
+### Contributions
 
-<a href="mailto:anton.doar@gmail.com">![eMail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/profile-anton/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)</a>
-<a href="https://stackoverflow.com/users/10483800/anton-yurchenko?tab=profile"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white"></a>
+<div align="center" style="padding: 0; margin: 0;">
+  <div style="display: flex; justify-content: center; flex-wrap: nowrap; gap: 6px; margin-bottom: 6px;">
+    <img src="https://github-contributor-stats.vercel.app/api?username=anton-yurchenko&limit=10&theme=dark&combine_all_yearly_contributions=true" alt="Anton Yurchenko - GitHub Contributor Stats" width="40%" />
+    <img src="https://github-profile-trophy.vercel.app/?username=anton-yurchenko&theme=radical&row=3&column=4&no-frame=true&no-bg=true&margin-w=4" alt="Anton Yurchenko - GitHub Profile Trophy Showcase" width="49%" />
+  </div>
+</div>
