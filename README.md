@@ -12,6 +12,8 @@
 |:---:|:---:|:---:|  
 | <img src="https://github.com/anton-yurchenko/anton-yurchenko/assets/33016810/24c50d6e-20bc-442c-bdeb-84f728a17656" width="30" height="30" /> | [AWS Aurora RDS Migration Case Study](https://aws.amazon.com/solutions/case-studies/reasonlabs-case-study/) | Migration of one of the most extensive malware databases worldwide from Azure to AWS |
 | <img src="https://github.com/anton-yurchenko/anton-yurchenko/assets/33016810/9127cf0c-748d-477d-b9fc-d1b864c8df4b" width="30" height="30" /> | [Control Monkey Case Study](https://controlmonkey.io/case-study/reasonlabs/) | Terraform automation platform |
+| <img src="https://github.com/user-attachments/assets/88b9cc43-f832-4cbb-9d38-f7256c6a6d4a" width="60" height="30" /> | [AWS Aurora RDS I/O-Optimized Mode Explained](https://anton-yurchenko.medium.com/aws-aurora-rds-i-o-optimized-mode-explained-aa7d1152e28a) | Byte-Size guide to reducing Aurora storage I/O costs and offsetting compute increases using Reserved Instances |
+
 
 ## Contact
 
